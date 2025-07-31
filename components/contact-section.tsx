@@ -49,16 +49,11 @@ export default function ContactSection() {
       url: "https://github.com/vaibhavjain-bot",
       color: "hover:text-gray-300",
     },
-    {
-      name: "LinkedIn",
-      icon: Linkedin,
-      url: "https://linkedin.com/in/yourusername",
-      color: "hover:text-blue-400",
-    },
+    
     {
       name: "Email",
       icon: Mail,
-      url: "mailto:your.email@example.com",
+      url: "mailto:vaibhavjain055@gmail.com",
       color: "hover:text-red-400",
     },
   ]
