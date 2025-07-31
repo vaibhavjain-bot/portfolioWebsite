@@ -73,11 +73,12 @@ export default function ContactSection() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-light mb-6 text-white tracking-wide">
-            Let's Solve Problems Together
-          </h2>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to turn your complex challenges into elegant solutions? Let's connect and build something amazing.
-          </p>
+  Let&rsquo;s Solve Problems Together
+</h2>
+<p className="text-xl text-gray-300 max-w-3xl mx-auto">
+  Ready to turn your complex challenges into elegant solutions? Let&rsquo;s connect and build something amazing.
+</p>
+
         </motion.div>
 
         <div className="grid lg:grid-cols-2 gap-12">
@@ -284,7 +285,10 @@ export default function ContactSection() {
           >
             <Puzzle className="w-16 h-16 text-purple-400 mx-auto mb-4" />
           </motion.div>
-          <p className="text-gray-400 italic">"Every complex problem is just a puzzle waiting to be solved."</p>
+          <p className="text-gray-400 italic">
+  &quot;Every complex problem is just a puzzle waiting to be solved.&quot;
+</p>
+
         </motion.div>
       </div>
     </section>
