@@ -46,7 +46,7 @@ export default function ContactSection() {
     {
       name: "GitHub",
       icon: Github,
-      url: "https://github.com/yourusername",
+      url: "https://github.com/vaibhavjain-bot",
       color: "hover:text-gray-300",
     },
     {
